@@ -23,4 +23,3 @@ AI Technologies Used;
   * Computer Vision for automated KYC verification
     
 This solution shifts AI intervention to the pre-application stage, enabling data-driven financial inclusion while reducing defaults and increasing efficiency.
-
